@@ -14,12 +14,10 @@
     window.player = new YT.Player('ytplayer', {
       height: '360',
       width: '640',
-      videoId: 'dQw4w9WgXcQ',
-      autoplay: '1',
-      controls: '0'
+      videoId: 'dQw4w9WgXcQ'
     });
     window.setTimeout(function() {
       window.player.playVideo();
-    }, 2000);
+    }, 1000);
   }
 </script>
