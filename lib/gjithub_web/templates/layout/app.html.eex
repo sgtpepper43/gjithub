@@ -27,14 +27,7 @@
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="http://images2.memedroid.com/avatars/AVATAR21/5232312db1ce7_thumb_s.jpeg" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="Whitelist concerned tables by rickastley95532 · Pull Request #<%= pr @conn %> · <%= org @conn %>/<%= repo @conn %>" property="og:title" /><meta content="https://github.com/<%= org @conn %>/<%= repo @conn %>/pull/<%= pr @conn %>" property="og:url" /><meta content="Brief context on code (tell us why these changes are necessary)
-PE-6859
-Whitelist concerned tables from kafka
-Test plan
-Before asking for code review
-
- I have unit tested behavioral changes
- I have..." property="og:description" />
+    <meta content="http://images2.memedroid.com/avatars/AVATAR21/5232312db1ce7_thumb_s.jpeg" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="Never Gonna Give You Up by rickastley95532 · Pull Request #<%= pr @conn %> · <%= org @conn %>/<%= repo @conn %>" property="og:title" /><meta content="https://github.com/<%= org @conn %>/<%= repo @conn %>/pull/<%= pr @conn %>" property="og:url" /><meta content="" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MjM0ODc1NTU2OjdlYjJhYTU5ZjZmYmNkNWUyMWRiZTM1MTliNDVjNDZmYjJhNTUxMzc2MmY5N2EyMWU5ZWI3Zjc0NmYxZWYzNjM=--1ae9a041f7ba9e404f26ff418d0bc5f5fa285637">
@@ -550,7 +543,7 @@ span.labelstyle-0e8a16, .linked-labelstyle-0e8a16 {  background-color: #0e8a16 !
 
     <div class="gh-header-edit">
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/<%= org @conn %>/<%= repo @conn %>/issues/<%= pr @conn %>" class="js-issue-update js-comment" data-remote="true" data-type="json" id="edit_header_294532925" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="_method" type="hidden" value="put" /><input name="authenticity_token" type="hidden" value="3fHCWUyTmscZJ/S/KyubGfCedugkopvm9muba9aGsBBAS9aR9R1Bf/rW2afTR1BtIny4q8kC1ntExRd9M80RKQ==" /></div>
-        <input aria-label="Pull Request title" autocomplete="off" autofocus="autofocus" class="form-control edit-issue-title" id="issue_title" name="issue[title]" size="30" tabindex="1" type="text" value="Whitelist concerned tables" />
+        <input aria-label="Pull Request title" autocomplete="off" autofocus="autofocus" class="form-control edit-issue-title" id="issue_title" name="issue[title]" size="30" tabindex="1" type="text" value="Never Gonna Give You Up" />
         <button class="btn" type="submit" data-disable-with="Updating" tabindex="1" data-ga-click="Issues, edit issue save, view:issue_show location:issue_header style:button logged_in:true">Save</button>
         <button class="btn-link js-details-target" type="button" aria-expanded="true" data-ga-click="Issues, edit issue cancel, view:issue_show location:issue_header style:button logged_in:true">Cancel</button>
 </form>    </div>
@@ -1377,21 +1370,7 @@ from
             id="issue-294532925-body"
             placeholder="Leave a comment"
             aria-label="Comment body"
-            class="form-control input-contrast comment-form-textarea js-comment-field js-improved-comment-field js-task-list-field js-quick-submit js-size-to-fit js-suggester-field js-quote-selection-target js-session-resumable">## Brief context on code (tell us why these changes are necessary)
-
-[PE-6859](https://<%= org @conn %>co.atlassian.net/browse/PE-6859)
-Whitelist concerned tables from kafka
-
-## Test plan
-
-## Before asking for code review
-
-- [ ] I have unit tested behavioral changes
-- [ ] I have verified test plan works
-- [ ] I have merged the base branch into this branch
-- [ ] I have ensured that CI is passing
-- [ ] I have filled out the &quot;Brief context on code&quot; and &quot;Test plan&quot; sections above
-- [ ] I have linked to the Jira ticket in the description above
+            class="form-control input-contrast comment-form-textarea js-comment-field js-improved-comment-field js-task-list-field js-quick-submit js-size-to-fit js-suggester-field js-quote-selection-target js-session-resumable">Never Gonna Give You Up
 </textarea>
 
     <p class="drag-and-drop position-relative">
@@ -1520,7 +1499,7 @@ Whitelist concerned tables from kafka
 
   <div class="commit-message pr-1">
     <code>
-      <a href="https://github.com/<%= org @conn %>/<%= repo @conn %>/pull/<%= pr @conn %>/commits/f764520898a646b9f881475e453c39925552b136" class="message" data-pjax="true" title="Whitelist concerned tables">Never Gonna Give You Up</a>
+      <a href="https://github.com/<%= org @conn %>/<%= repo @conn %>/pull/<%= pr @conn %>/commits/f764520898a646b9f881475e453c39925552b136" class="message" data-pjax="true" title="Never Gonna Give You Up">Never Gonna Give You Up</a>
     </code>
 
 
@@ -1775,7 +1754,7 @@ Whitelist concerned tables from kafka
         <div class="select-menu-item disabled "
           role="menuitem"
           data-input-title-value="Merge pull request #<%= pr @conn %> from <%= org @conn %>/never-give-you-up"
-          data-input-message-value="Whitelist concerned tables">
+          data-input-message-value="Never Gonna Give You Up">
           <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
           <input class="js-merge-method" disabled="disabled" id="do_merge" name="do" type="radio" value="merge" />
           <div class="select-menu-item-text">
@@ -1787,16 +1766,8 @@ Whitelist concerned tables from kafka
 
         <div class="select-menu-item js-navigation-item selected"
           role="menuitem"
-          data-input-title-value="Whitelist concerned tables (#<%= pr @conn %>)"
-          data-input-message-value="* Whitelist concerned tables
-
-* Fix formatter
-
-* Add test and format
-
-* Wrap the vars in ok
-
-* Fix formatting some more
+          data-input-title-value="Never Gonna Give You Up (#<%= pr @conn %>)"
+          data-input-message-value="* Never Gonna Give You Up
 ">
           <svg aria-hidden="true" class="octicon octicon-check select-menu-item-icon" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5z"/></svg>
           <input checked="checked" class="js-merge-method" id="do_squash" name="do" type="radio" value="squash" />
