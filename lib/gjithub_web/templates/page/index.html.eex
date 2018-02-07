@@ -19,7 +19,7 @@
       controls: '0'
     });
     window.setTimeout(function() {
-      // window.player.playVideo();
+      window.player.playVideo();
     }, 2000);
   }
 </script>
