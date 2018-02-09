@@ -82,7 +82,7 @@ span.labelstyle-0e8a16, .linked-labelstyle-0e8a16 {  background-color: #0e8a16 !
 
   <link href="https://github.com/<%= org @conn %>/<%= repo @conn %>/commits/never-give-you-up.atom?token=ACVeduZoLKg5kCdcWGELO6zjzC8vXFwcks64hiIuwA%3D%3D" rel="alternate" title="Recent Commits to <%= repo @conn %>:never-give-you-up" type="application/atom+xml">
 
-  <meta name="description" content="<%= repo @conn %> - Phoenix backend for Kazaam">
+  <meta name="description" content="<%= repo @conn %> - We're No Strangers to Love">
   <meta name="go-import" content="github.com/<%= org @conn %>/<%= repo @conn %> git https://github.com/<%= org @conn %>/<%= repo @conn %>.git">
 
   <meta content="7001675" name="octolytics-dimension-user_id" /><meta content="<%= org @conn %>" name="octolytics-dimension-user_login" /><meta content="54986258" name="octolytics-dimension-repository_id" /><meta content="<%= org @conn %>/<%= repo @conn %>" name="octolytics-dimension-repository_nwo" /><meta content="false" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="54986258" name="octolytics-dimension-repository_network_root_id" /><meta content="<%= org @conn %>/<%= repo @conn %>" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
