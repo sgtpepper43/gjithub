@@ -12,12 +12,8 @@
 
 <meta content="origin-when-cross-origin" name="referrer" />
 
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-521cbf980c80.css" integrity="sha512-Uhy/mAyAx1HfsenmjQ85ASpOk5bjt2Ay03pNeixXIvkHlEm5S+N4u0HWfDGhvsGYx4bGyviXWGGPZeIffqYcNA==" media="all" rel="stylesheet" />
-  <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-b028b0565d07.css" integrity="sha512-sCiwVl0HopKw2sd/QLCwI+iRbJHmjEXp/sYZCPCru4gLin1Y/xDUGcpWznQGGDB4IZQpqxTepNP0sVDmA5Nl1A==" media="all" rel="stylesheet" />
-  
-  
-  
-  
+  <link crossorigin="anonymous" media="all" integrity="sha512-R+Vpkv86him5JZcqAEuQRUGOKqH897w6q7uJ1P65tQR+9Hxar5vU4wpEd4uvcXT8ooRZ7zsNftrjnCemEt2u2Q==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-f4557b27209914aa4705202b188165b5.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-KEU81s6VSQsWSYL9G7CIF3KfhcC/TA95vNfUJblMHowAYWYVidT8OwKZbk3cwed4lgSrWGI9C6HiSwa9InPqJA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-da3c6f2fea2a2b141160341f730a74e7.css" />
 
   <meta name="viewport" content="width=device-width">
   
